@@ -1,0 +1,99 @@
+head,relation,tail,source_doc
+OpenAI,FOUNDED_BY,Sam Altman,doc_openai_1
+OpenAI,FOUNDED_BY,Elon Musk,doc_openai_1
+OpenAI,FOUNDED_IN_YEAR,2015,doc_openai_1
+OpenAI,FOUNDED_AT,San Francisco,doc_openai_1
+OpenAI,DEVELOPS,GPT family of large language models,doc_openai_2
+OpenAI,DEVELOPS,GPT-4o,doc_openai_2
+OpenAI,DEVELOPS,GPT-4,doc_openai_2
+OpenAI,DEVELOPS,ChatGPT,doc_openai_2
+Microsoft,INVESTOR_IN,OpenAI,doc_openai_3
+Microsoft,INVESTED_AMOUNT,ten billion dollars,doc_openai_3
+Anthropic,FOUNDED_BY,Dario Amodei,doc_anthropic_1
+Anthropic,FOUNDED_BY,Daniela Amodei,doc_anthropic_1
+Anthropic,FOUNDED_IN_YEAR,2021,doc_anthropic_1
+Anthropic,HEADQUARTERED_IN,San Francisco,doc_anthropic_1
+Dario Amodei,WORKED_AT,OpenAI,doc_anthropic_1
+Daniela Amodei,WORKED_AT,OpenAI,doc_anthropic_1
+Claude,COMPETES_WITH,ChatGPT,doc_anthropic_2
+Claude,COMPETES_WITH,Gemini,doc_anthropic_2
+Anthropic,DEVELOPS,Claude,doc_anthropic_2
+Google,INVESTOR_IN,Anthropic,doc_anthropic_3
+Amazon,INVESTOR_IN,Anthropic,doc_anthropic_3
+Amazon,INVESTED_AMOUNT,four billion dollars,doc_anthropic_3
+Google,FOUNDED_BY,Larry Page,doc_google_1
+Google,FOUNDED_BY,Sergey Brin,doc_google_1
+Google,FOUNDED_IN_YEAR,1998,doc_google_1
+Google,FOUNDED_AT,Stanford University,doc_google_1
+Sundar Pichai,CEO_OF,Google,doc_google_2
+Sundar Pichai,CEO_OF,Alphabet,doc_google_2
+Alphabet,PARENT_OF,Google,doc_google_2
+Google,SUBSIDIARY_OF,Alphabet,doc_google_2
+DeepMind,SUBSIDIARY_OF,Alphabet,doc_google_3
+Alphabet,PARENT_OF,DeepMind,doc_google_3
+Google,ACQUIRED,DeepMind,doc_google_3
+Google,ACQUIRED_IN,2014,doc_google_3
+Google,DEVELOPS,Gemini family of large language models,doc_google_4
+Gemini,COMPETES_WITH,ChatGPT,doc_google_4
+Gemini,COMPETES_WITH,Claude,doc_google_4
+Google,DEVELOPS,Gemini,doc_google_4
+Microsoft,FOUNDED_BY,Bill Gates,doc_microsoft_1
+Microsoft,FOUNDED_BY,Paul Allen,doc_microsoft_1
+Microsoft,FOUNDED_IN_YEAR,1975,doc_microsoft_1
+Microsoft,HEADQUARTERED_IN,"Redmond, Washington",doc_microsoft_1
+GitHub,SUBSIDIARY_OF,Microsoft,doc_microsoft_2
+GitHub Copilot,USED_BY,GitHub,doc_microsoft_2
+OpenAI,DEVELOPS,GitHub Copilot,doc_microsoft_2
+LinkedIn,HEADQUARTERED_IN,"Sunnyvale, California",doc_microsoft_3
+Microsoft,ACQUIRED,LinkedIn,doc_microsoft_3
+Microsoft,ACQUIRED_IN,2016,doc_microsoft_3
+Microsoft,ACQUIRED_FOR,twenty six billion dollars,doc_microsoft_3
+Apple,FOUNDED_BY,Steve Jobs,doc_apple_1
+Apple,FOUNDED_BY,Steve Wozniak,doc_apple_1
+Apple,FOUNDED_BY,Ronald Wayne,doc_apple_1
+Apple,FOUNDED_IN_YEAR,1976,doc_apple_1
+Apple,HEADQUARTERED_IN,"Cupertino, California",doc_apple_1
+Apple,DEVELOPS,iPhone,doc_apple_2
+Apple,DEVELOPS,iPad,doc_apple_2
+Apple,DEVELOPS,Mac,doc_apple_2
+Apple,DEVELOPS,Apple Intelligence,doc_apple_2
+was,FOUNDED_BY,Mark Zuckerberg,doc_meta_1
+was,FOUNDED_IN_YEAR,2004,doc_meta_1
+was,FOUNDED_AT,Harvard University,doc_meta_1
+Meta,HEADQUARTERED_IN,"Menlo Park, California",doc_meta_1
+Meta,FOUNDED_BY,Mark Zuckerberg,doc_meta_1
+Meta,FOUNDED_IN_YEAR,2004,doc_meta_1
+Meta,FOUNDED_AT,Harvard University,doc_meta_1
+Meta,ACQUIRED,Instagram,doc_meta_2
+Meta,ACQUIRED_IN,2012,doc_meta_2
+Meta,ACQUIRED_FOR,one billion dollars,doc_meta_2
+Meta,ACQUIRED,WhatsApp,doc_meta_2
+Meta,ACQUIRED_IN,2014,doc_meta_2
+Meta,ACQUIRED_FOR,nineteen billion dollars,doc_meta_2
+Meta,DEVELOPS,Llama family of open-weight large language models,doc_meta_3
+Meta,DEVELOPS,Llama,doc_meta_3
+Nvidia,FOUNDED_BY,Jensen Huang,doc_nvidia_1
+Nvidia,FOUNDED_BY,Chris Malachowsky,doc_nvidia_1
+Nvidia,FOUNDED_BY,Curtis Priem,doc_nvidia_1
+Nvidia,FOUNDED_IN_YEAR,1993,doc_nvidia_1
+Nvidia,HEADQUARTERED_IN,"Santa Clara, California",doc_nvidia_1
+Nvidia,DEVELOPS,H100,doc_nvidia_2
+Nvidia,DEVELOPS,A100,doc_nvidia_2
+OpenAI,USED_BY,Nvidia H100,doc_nvidia_2
+Anthropic,USED_BY,Nvidia H100,doc_nvidia_2
+Meta,USED_BY,Nvidia H100,doc_nvidia_2
+xAI,FOUNDED_BY,Elon Musk,doc_xai_1
+xAI,FOUNDED_IN_YEAR,2023,doc_xai_1
+xAI,DEVELOPS,Grok large language model,doc_xai_1
+xAI,DEVELOPS,Grok,doc_xai_1
+Mistral AI,FOUNDED_BY,Arthur Mensch,doc_mistral_1
+Mistral AI,FOUNDED_BY,Guillaume Lample,doc_mistral_1
+Mistral AI,FOUNDED_BY,Timothee Lacroix,doc_mistral_1
+Mistral AI,FOUNDED_IN_YEAR,2023,doc_mistral_1
+Mistral,HEADQUARTERED_IN,"Paris, France",doc_mistral_1
+DeepMind,DEVELOPS,AlphaGo,doc_deepmind_extra
+DeepMind,DEVELOPS,AlphaFold,doc_deepmind_extra
+DeepMind,DEVELOPS,Gemini,doc_deepmind_extra
+Sam Altman,CEO_OF,OpenAI,doc_relations_1
+Dario Amodei,CEO_OF,Anthropic,doc_relations_1
+Jensen Huang,CEO_OF,Nvidia,doc_relations_1
